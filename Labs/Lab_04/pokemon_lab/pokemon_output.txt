@@ -1,0 +1,33 @@
+--- Running Test Pipeline (Built-in Test Modes) ---
+update_portfolio.py running in Test Mode.
+Portfolio updated.
+Total Portfolio Value: $326.55
+Most Valuable Card: Charizard | ID: base0-4 | Value: $250.75
+Test complete.
+
+--- Adding New Card Set ---
+Enter TCG Card Set ID:base1
+Fetching card data from base1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  474k    0  474k    0     0  11829      0 --:--:--  0:00:41 --:--:--  125k
+
+--- Adding New Card Set ---
+Enter TCG Card Set ID:base4
+Fetching card data from base4...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  474k    0  474k    0     0   8118      0 --:--:--  0:00:59 --:--:--  134k
+
+--- Starting Portfolio Build Workflow ---
+Do you want to add a NEW card set? (yes/no)
+no
+Do you want to refresh ALL existing card sets? (yes/no)
+no
+--- Running pipeline ---
+--- Updating portfolio ---
+Portfolio updated.
+--- Generating portfolio summary ---
+Total Portfolio Value: $1,492.55
+Most Valuable Card: Charizard | ID: base4-4 | Value: $304.88
+--- Pipeline complete ---

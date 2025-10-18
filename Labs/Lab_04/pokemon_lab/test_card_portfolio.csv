@@ -1,0 +1,5 @@
+card_name,set_id,card_number,binder_name,page_number,slot_number,card_id,set_name,card_market_value,index
+Alakazam,base0,1,0,1,1,base0-1,Base Set,65.5,0_1_1
+Charizard,base0,4,0,2,8,base0-4,Base Set,250.75,0_2_8
+Pikachu,base0,58,0,3,4,base0-58,Base Set,5.15,0_3_4
+Pikachu,base0,58,0,3,5,base0-58,Base Set,5.15,0_3_5
